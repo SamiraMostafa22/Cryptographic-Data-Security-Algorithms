@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\securitylibrary",
+    "\\securitylibrary\\AES",
+    "\\securitylibrary\\DES",
+    "\\securitylibrary\\DiffieHellman",
+    "\\securitylibrary\\ElGamal",
+    "\\securitylibrary\\RC4",
+    "\\securitylibrary\\RSA",
+    "\\securitypackagetest"
+  ],
+  "SelectedNode": "\\securitypackagetest\\DES3DESTest.cs",
+  "PreviewInSolutionExplorer": false
+}
